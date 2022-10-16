@@ -17,17 +17,17 @@ github地址: https://github.com/hztgithup/airingursb-bilibili-video
 5、SinaSpider 【5】-新浪微博爬虫
 github地址: https://github.com/LiuXingMing/SinaSpider
 6、distribute crawler 【6】-小说下载分布式爬虫
-github地址: https://github.com/gnemoug/distribute crawler
+github地址: https://github.com/amikey/distribute_crawler
 7、CnkiSpider 【7】-中国知网爬虫
 github地址: https://github.com/yanzhou/CnkiSpider
 8、 LianJiaSpider 【8】-链家网爬虫
 github地址: https://github.com/lanbing510/LianJiaSpider
 9、scrapy jingdong 【9】-京东爬虫
-github地址: https://github.com/taizilongxu/scrapyjingdong
+github地址: https://github.com/LLyeap/ScrapyJingdong
 10、QQ-Groups- Spider 【10】-QQ群爬虫:
-github地址: https://github.com/caspartse/QQ Groups Spider
+github地址: https://github.com/caspartse/QQ-Groups-Spider
 11、wooyun-public【11】-乌云爬虫
-github地址: https://github.com/hancol/wooyun-public
+github地址: https://github.com/hanc00l/wooyun_public
 12、spider【12】- hao123网站爬虫
 github地址: https://github.com/simapple/spider
 # <a href=""></a>
