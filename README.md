@@ -11,7 +11,7 @@ github地址: https://github.com/Chyroc/WechatSogou
 2、DouBanSpider 【2】-豆瓣读书爬虫
 github地址: https://github.com/lanbing510/DouBanSpider
 3、zhihu spider 【3】- 知乎爬虫
-github地址: https://github.com/LiuRoy/zhihu spider
+github地址: https://github.com/LiuRoy/zhihu_spider 
 ，4、bilibili-user 【4】- Bilibili用户爬虫
 github地址: https://github.com/airingursb/bilbil-user
 5、SinaSpider 【5】-新浪微博爬虫
