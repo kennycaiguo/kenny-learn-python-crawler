@@ -13,7 +13,7 @@ github地址: https://github.com/lanbing510/DouBanSpider
 3、zhihu spider 【3】- 知乎爬虫
 github地址: https://github.com/LiuRoy/zhihu_spider 
 ，4、bilibili-user 【4】- Bilibili用户爬虫
-github地址: https://github.com/airingursb/bilbil-user
+github地址: https://github.com/hztgithup/airingursb-bilibili-video
 5、SinaSpider 【5】-新浪微博爬虫
 github地址: https://github.com/LiuXingMing/SinaSpider
 6、distribute crawler 【6】-小说下载分布式爬虫
