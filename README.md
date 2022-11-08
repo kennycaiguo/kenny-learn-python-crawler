@@ -30,7 +30,7 @@ github地址: https://github.com/caspartse/QQ-Groups-Spider
 github地址: https://github.com/hanc00l/wooyun_public
 12、spider【12】- hao123网站爬虫
 github地址: https://github.com/simapple/spider
-# <a href=""></a>
+# <a href="https://github.com/xsren/uplooking_spider">尚观爬虫就业冲刺班项目代码</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
